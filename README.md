@@ -1,22 +1,25 @@
 # Voice of Customer Hub
 
-Unify reviews, tickets, surveys, and social mentions into one VoC hub with AI themes — hear what customers actually mean.
+Unify reviews, tickets, surveys and social mentions into one VoC hub with AI themes.
 
 **Live app:** https://ziontechgroup.com/voice-of-customer-hub/
+**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
 ## Features
-- Aggregates reviews, tickets, surveys, and social mentions
-- AI theme detection and sentiment trends
-- Closed-loop workflows to route insights to owners
+- Ready-to-use, zero-install web app
+- Interlinked with the Zion App Network — every app links to related tools
+- Open source under the Zion-support GitHub organization
 
-## Part of the Zion Tech Group App Network
-- Network showcase: https://zion-support.github.io/apps/
-- Homepage: https://ziontechgroup.com
+## Related apps
+- [AI Customer Experience Hub](https://github.com/Zion-support/ai-customer-experience-hub) — [live](https://ziontechgroup.com/ai-customer-experience-hub/)
+- [Support Deflection Analyzer](https://github.com/Zion-support/support-deflection-analyzer) — [live](https://ziontechgroup.com/support-deflection-analyzer/)
+- [Churn Radar](https://github.com/Zion-support/churn-radar) — [live](https://ziontechgroup.com/churn-radar/)
+- [AI Email Classifier](https://github.com/Zion-support/ai-email-classifier) — [live](https://ziontechgroup.com/ai-email-classifier/)
 
-### Related apps
-- [Zion AI Ticket Sentinel](https://ziontechgroup.com/zion-ai-ticket-sentinel/) — AI ticket routing
-- [SLA Breach Predictor](https://ziontechgroup.com/sla-breach-predictor/) — SLA forecasting
-- [Security Awareness Coach](https://ziontechgroup.com/security-awareness-coach/) — employee risk scoring
+## Links
+- Live: https://ziontechgroup.com/voice-of-customer-hub/
+- App Network showcase: https://ziontechgroup.com/apps/
+- Homepage: https://ziontechgroup.com/
+- GitHub org: https://github.com/Zion-support
 
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group
