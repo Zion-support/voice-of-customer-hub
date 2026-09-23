@@ -1,25 +1,24 @@
 # Voice of Customer Hub
 
-Unify reviews, tickets, surveys and social mentions into one VoC hub with AI themes.
+Unify reviews, tickets, surveys and social mentions into one AI insights hub. Part of the Zion Tech Group App Network.
 
 **Live app:** https://ziontechgroup.com/voice-of-customer-hub/
-**Part of:** [Zion Tech Group AI App Network](https://ziontechgroup.com/apps/) — 690+ interconnected AI apps, tools and playbooks.
 
-## Features
-- Ready-to-use, zero-install web app
-- Interlinked with the Zion App Network — every app links to related tools
-- Open source under the Zion-support GitHub organization
+## About
+Voice of Customer Hub is a free, browser-based tool from the [Zion App Network](https://ziontechgroup.com/apps/) (400+ open-source AI & IT ops apps). Category: **Sales, Marketing & CX**.
 
-## Related apps
-- [AI Customer Experience Hub](https://github.com/Zion-support/ai-customer-experience-hub) — [live](https://ziontechgroup.com/ai-customer-experience-hub/)
-- [Support Deflection Analyzer](https://github.com/Zion-support/support-deflection-analyzer) — [live](https://ziontechgroup.com/support-deflection-analyzer/)
-- [Churn Radar](https://github.com/Zion-support/churn-radar) — [live](https://ziontechgroup.com/churn-radar/)
-- [AI Email Classifier](https://github.com/Zion-support/ai-email-classifier) — [live](https://ziontechgroup.com/ai-email-classifier/)
+## Related apps in the network
+- [Zion AI Social Listening](https://ziontechgroup.com/zion-ai-social-listening/) — brand monitoring and sentiment ([repo](https://github.com/Zion-support/zion-ai-social-listening))
+- [Churn Radar](https://ziontechgroup.com/churn-radar/) — customer health scoring & churn prediction ([repo](https://github.com/Zion-support/churn-radar))
+- [AI Customer Experience Hub](https://ziontechgroup.com/ai-customer-experience-hub/) — personalize CX ([repo](https://github.com/Zion-support/ai-customer-experience-hub))
+- [Zion AI Call Analytics](https://ziontechgroup.com/zion-ai-call-analytics/) — voice-of-customer insights from calls ([repo](https://github.com/Zion-support/zion-ai-call-analytics))
+- [Support Deflection Analyzer](https://ziontechgroup.com/support-deflection-analyzer/) — measure ticket deflection ([repo](https://github.com/Zion-support/support-deflection-analyzer))
+- [Employee Engagement Pulse](https://ziontechgroup.com/employee-engagement-pulse/) — pulse surveys with AI summaries ([repo](https://github.com/Zion-support/employee-engagement-pulse))
 
 ## Links
-- Live: https://ziontechgroup.com/voice-of-customer-hub/
-- App Network showcase: https://ziontechgroup.com/apps/
-- Homepage: https://ziontechgroup.com/
-- GitHub org: https://github.com/Zion-support
+- 🌐 Homepage: https://ziontechgroup.com/
+- 🗂️ Full directory: https://ziontechgroup.com/apps/ · [GitHub catalog](https://github.com/Zion-support/zion-support.github.io/tree/main/apps)
+- 💼 Services: https://ziontechgroup.com/services/ · Discovery $99: https://ziontechgroup.com/discovery/
 
-© 2026 Zion Tech Group
+---
+Zion Tech Group · Middletown, DE · kleber@ziontechgroup.com
