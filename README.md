@@ -1,25 +1,24 @@
 # Voice of Customer Hub
 
-> Unify reviews, tickets, surveys and social mentions into one VoC hub
+Unify reviews, support tickets, surveys and social mentions into one AI-analyzed voice-of-customer feed with themes, sentiment and trending issues.
 
-Unify reviews, tickets, surveys and social mentions into one VoC hub.
-
-**Live:** https://ziontechgroup.com/voice-of-customer-hub/  
-**Network hub:** https://github.com/Zion-support/zion-app-network
+**Live app:** https://zion-support.github.io/voice-of-customer-hub/ · **GitHub:** https://github.com/Zion-support/voice-of-customer-hub
 
 ## Features
-- Ingest reviews, tickets, NPS surveys and social mentions
-- AI theme and sentiment clustering across all channels
-- Closed-loop follow-ups routed to owners
-- VoC dashboards by product, region and segment
+- Aggregate reviews, tickets, surveys and social mentions
+- AI theme clustering and sentiment scoring
+- Trend alerts and weekly VoC digest
 
 ## Part of the Zion AI App Network
-- [App Network Directory](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- [Returns Optimization AI](https://github.com/Zion-support/returns-optimization-ai) — https://ziontechgroup.com/returns-optimization-ai/
-- [Shipping Delay Alerter](https://github.com/Zion-support/shipping-delay-alerter) — https://ziontechgroup.com/shipping-delay-alerter/
-- [License Renewal Planner](https://github.com/Zion-support/license-renewal-planner) — https://ziontechgroup.com/license-renewal-planner/
-- [Accessibility Statement Generator](https://github.com/Zion-support/accessibility-statement-gen) — https://ziontechgroup.com/accessibility-statement-gen/
-- [Data Retention Enforcer](https://github.com/Zion-support/data-retention-enforcer) — https://ziontechgroup.com/data-retention-enforcer/
+- 🏠 Homepage: https://ziontechgroup.com
+- 🌐 App Showcase: https://zion-support.github.io/apps/
+- 🧭 Master directory: https://github.com/Zion-support/zion-app-network
+- 🔗 Interlinks: see [NETWORK.md](NETWORK.md)
+
+## Related apps
+- [Support Deflection Analyzer](https://zion-support.github.io/support-deflection-analyzer/)
+- [Employee Engagement Pulse](https://zion-support.github.io/employee-engagement-pulse/)
+- [Knowledge Base Copilot](https://zion-support.github.io/knowledge-base-copilot/)
 
 ---
-© 2026 Zion Tech Group — https://ziontechgroup.com
+© 2026 Zion Tech Group · [Book a Discovery Call](https://ziontechgroup.com/discovery/)
